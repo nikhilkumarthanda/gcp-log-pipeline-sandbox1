@@ -57,3 +57,6 @@ Potential Extensions
 	•	Error-handling and dead-letter queues
 	•	Integration with Looker Studio dashboards
 	•	ML-based anomaly detection on logs
+## Architecture Diagram
+
+![Architecture](architecture.png)
